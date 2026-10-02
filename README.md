@@ -46,8 +46,6 @@ Detailed process files are available under `docs/03-business-processes/`.
 ```text
 peony-erp-ba-portfolio/
 ├── README.md
-├── README.vi.md
-├── SOURCE_GROUNDING.md
 ├── docs/
 │   ├── 00-guide/
 │   ├── 01-business-overview/
